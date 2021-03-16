@@ -1,0 +1,11 @@
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\p4uSuiteUtilities.dll
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\p4uSuiteUtilities.pdb
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\log4net.dll
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\log4net.xml
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\obj\Debug\p4uSuiteUtilities.csprojAssemblyReference.cache
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\obj\Debug\p4uSuiteUtilities.csproj.CoreCompileInputs.cache
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\obj\Debug\p4uSuiteUtilities.csproj.CopyComplete
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\obj\Debug\p4uSuiteUtilities.dll
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\obj\Debug\p4uSuiteUtilities.pdb
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\Newtonsoft.Json.dll
+D:\Repository_GitHub\LuliSense\p4uSuiteUtilities\bin\Debug\Newtonsoft.Json.xml
